@@ -1,7 +1,7 @@
 // src/App.js
 import React from 'react';
 import './App.css';
-import SolarSystem from './SolarSystem';
+import SolarSystem from './components/SolarSystem';
 
 function App() {
   return (
