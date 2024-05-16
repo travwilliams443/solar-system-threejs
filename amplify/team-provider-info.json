@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-solarsystemthreejs-dev-758a6-authRole",
+      "UnauthRoleArn": "arn:aws:iam::694331271591:role/amplify-solarsystemthreejs-dev-758a6-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::694331271591:role/amplify-solarsystemthreejs-dev-758a6-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-solarsystemthreejs-dev-758a6-deployment",
+      "UnauthRoleName": "amplify-solarsystemthreejs-dev-758a6-unauthRole",
+      "StackName": "amplify-solarsystemthreejs-dev-758a6",
+      "StackId": "arn:aws:cloudformation:us-east-1:694331271591:stack/amplify-solarsystemthreejs-dev-758a6/82076a60-1320-11ef-a50a-0e16c4055893",
+      "AmplifyAppId": "d32x4twt96uljb"
+    }
+  }
+}
